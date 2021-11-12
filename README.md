@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Alice Yu
   I am an aspiring Software engineer, currently studying Computer Science and Statistics @UNC-CH. 
   
-  As someone who strive for growth, my goal is to build quality applications and services that are sustainable, highly functional and friendly to users. 
+  As someone who strives for growth, I seek to build quality applications and services that are sustainable, highly functional and user-friendly. 
   
-  I am currently looking for an SWE internship opportunities for upcoming summer/fall (2021) to learn more soft and hard skills.
+  I am currently looking for SWE internship opportunities for the upcoming summer/fall (2021) season to develop more soft and hard skills.
   
 # 🛠 Skills 
 ### Front-end 
