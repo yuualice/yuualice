@@ -3,7 +3,7 @@
   
   As someone who strives for growth, I seek to build quality applications and services that are sustainable, highly functional and user-friendly. 
   
-  I am currently looking for SWE internship opportunities for the upcoming summer/fall (2021) season to develop more soft and hard skills.
+  I am currently looking for SWE internship opportunities for the upcoming fall (2022) season to develop more soft and hard skills.
   
 # 🛠 Skills 
 ### Front-end 
