@@ -31,7 +31,7 @@
 
 # 🌱 I’m currently learning ...
 + jQuery
-+ C, C++
++ Three.js
 + Swift
 + REST API
 
