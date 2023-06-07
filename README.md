@@ -29,13 +29,10 @@
 # ☎️ Contact Information 
 - Email: yuualice@live.unc.edu
 - LinkedIn: https://www.linkedin.com/in/alice-yu-210a6b1b4
-- Blog: updating ... 
 
 # 🌱 I’m currently learning ...
-+ jQuery
 + Three.js
 + Swift
-+ REST API
 
 <!---
 yuualice/yuualice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
